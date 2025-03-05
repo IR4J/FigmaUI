@@ -1,4 +1,4 @@
-# FigmaUI
+# Personal Waymo UI Project
 
 
 ![Waymo Colors](https://github.com/IR4J/FigmaUI/blob/main/images/figma2.jpeg?raw=true)
