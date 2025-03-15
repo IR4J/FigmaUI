@@ -34,5 +34,23 @@ Using Figma, I made the robot's face. It took time and trial and error to align 
 
 ## Screenshots
 
-### Insperation from [Figure](https://www.figure.ai/)
+### Inspiration from [Figure](https://www.figure.ai/)
+
+<img src="https://github.com/IR4J/FigmaUI/blob/main/images/figure%202.png" width="400">
+
+## Design Process
+At first, I drafted the boxes to match with the robot and ended up with this.
+
+<img src="https://github.com/IR4J/FigmaUI/blob/main/images/2.png" width="1000">
+
+Next, I created four different designs and added an animation. However, as I made the boxes smaller, I had to adjust the glow to align with how it looked on the robot.
+
+<img src="https://github.com/IR4J/FigmaUI/blob/main/images/3.png" width="1000">
+
+## Final Design 
+
+Here is how the final design looks when animated
+
+https://github.com/user-attachments/assets/037b4d92-3d55-4328-97de-56e60957b204
+
 
