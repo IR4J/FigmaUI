@@ -1,4 +1,6 @@
-# Personal Waymo UI Project
+# Personal Projects
+
+# 1) Waymo UI 
 
 ![Waymo UI](https://github.com/IR4J/FigmaUI/blob/main/figma1.jpeg?raw=true)
 
@@ -24,4 +26,13 @@ If you click the link you will be able to see the project in Figma
 
  **Live Preview:** [https://www.figma.com/design/zpT4jQywkW0hGi3nISau1Q/Waymo?node-id=0-1&t=CpF6GrQzYRjwMtLC-1]
 
+# 2) Figure Robot Face 
+
+## Description
+
+Using Figma, I made the robot's face. It took time and trial and error to align the boxes and animation correctly but after a while I got it to work.
+
+## Screenshots
+
+### Insperation from [Figure](https://www.figure.ai/)
 
